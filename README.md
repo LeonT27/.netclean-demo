@@ -1,0 +1,3 @@
+# .netclean-demo
+
+Clean Architecture
